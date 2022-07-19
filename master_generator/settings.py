@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-sps&9j$z$@im&xm*c%_pz!&x5h8js-plb!_l5i0+z^1$=r#*9(
 
 # SECRET_KEY = os.environ.get('DJANGO_SECRET_KEY', 'cg#p$g+j9tax!#a3cup@1$8obt2_+&k3q+pmu)5%asj6yjpkag')
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['*']
 
