@@ -1,1 +1,1 @@
-web: gunicorn master_generator.wsgi --log.file -
+web: gunicorn master_generator.wsgi --log-file -
